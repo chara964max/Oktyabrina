@@ -5,6 +5,9 @@
 - Height: 165cm
 - Weight: 50kg
 - Age: 666days
+- Introduced: October 26, 1917
+- The main creators: D_13, CHR0MA/XHR0ME
+- Assistants: Netriko
 
 ## Oktyabrina Voicebank
 Diffsinger v1.0
