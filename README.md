@@ -1,7 +1,8 @@
 # Oktyabrina
 .--. --- -- --- --. .. - . --..--  - ..- -  - .- -.-  - . -- -. --- .-.-.- .-.-.- .-.-.-
 ## General information
-- Gender: Android
+- Gender: Female
+- Species: Android
 - Height: 165cm
 - Weight: 50kg
 - Age: 666days
